@@ -1,0 +1,94 @@
+.contact{
+    background-image: url('/assets/bg.jpeg');
+    background-color: gray;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+
+
+    .left{
+        flex: 1;
+        overflow: hidden;
+
+        .img-tag1{
+            height: 50px;
+            width: 50px; 
+            margin-right: 15px;
+        }
+        .img-tag1:hover{
+            transform: scale(1.1);
+            transition: all 0.5s ease-in-out;
+        }
+        .footer_social{
+            display: flex;
+            margin-top: 300px;
+        
+        }
+    }
+
+    .right{
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        h2{
+            font-size: 40px;
+            font-weight: 600;
+            color: aqua;
+            font-family: 'Ubuntu', sans-serif;
+        }
+
+        form{
+            width: 70%;
+            height: 70%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-around;
+
+
+            input{
+                width: 300px;
+                height: 40px;
+                font-size: 18px;
+                border-radius: 10px;
+                font-family: 'Ubuntu', sans-serif;
+            }
+
+            textarea{
+                width: 300px;
+                height: 150px;
+                font-size: 18px;
+                border-radius: 10px;
+                font-family: 'Ubuntu', sans-serif;
+            }
+            button:hover{
+                background: skyblue;
+                color: #010101!important;
+            }
+
+            button{
+                width: 150px;
+                height: 50px;
+                color: white;
+                background-color: crimson;
+                border-radius: 10px;
+                font-size: 18px;
+                font-family: 'Ubuntu', sans-serif;
+                font-weight: 500;
+                cursor: pointer;
+
+                &:focus{
+                    outline: none;
+                }
+            }
+
+            span{
+                color: green;
+            }
+        }
+    }
+}
