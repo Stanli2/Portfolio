@@ -11,8 +11,22 @@ export default function Work() {
       </div>
       <div className="container">
         <div className="row">
-          <img src="" alt="" />
+          <div className="product_photo">
+          </div>
+          <h3>Fitnesso App</h3>
+          <p>Softwares used</p>
+        </div>
+        <div className="row">
+        <div className="product_photo1">
+          </div>
           <h3>Banking App</h3>
+          <p>Softwares used</p>
+        </div>
+        <div className="row">
+        <div className="product_photo2">
+          </div>
+          <h3>Banking App</h3>
+          <p>Softwares used</p>
         </div>
       </div>
     </div>

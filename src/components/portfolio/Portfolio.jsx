@@ -20,7 +20,7 @@ export default function Portfolio() {
                 I will be glad to work on increasing the customer loyalty rate of your company.
                 </p>
                 <div className="about_button">
-                  <a href="#"><button className="about">Download  CV</button></a>
+                  <a href="https://docs.google.com/document/d/1dQNX4tMOgvLS3qkzLodPJH9XG7dZLtSV/edit"><button className="about">Download  CV</button></a>
                   <a href="#contact"><button className="about">Hire Me</button></a>
                 </div>
               </div>

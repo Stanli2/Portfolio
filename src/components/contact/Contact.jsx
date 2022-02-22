@@ -17,9 +17,9 @@ export default function Contact() {
       <div className="left">
       <div className="footer_social">
             <a href="https://www.linkedin.com/in/obinwanne-ikechukwu/"><div ><img className="img-tag1" src="https://uploads-ssl.webflow.com/5e80894f63c557e083ed96b4/5e830050cf9bc2c348479b60_youtube.svg" alt="" /></div></a>
-            <a href=""><div ><img className="img-tag1" src="https://uploads-ssl.webflow.com/5e80894f63c557e083ed96b4/5e83002e40b6b8486e320705_instagram.svg" alt="" /></div></a>
+            <a href="https://www.instagram.com/stanli_obi/"><div ><img className="img-tag1" src="https://uploads-ssl.webflow.com/5e80894f63c557e083ed96b4/5e83002e40b6b8486e320705_instagram.svg" alt="" /></div></a>
             <a href="https://www.linkedin.com/in/obinwanne-ikechukwu/"><div ><img className="img-tag1" src="https://uploads-ssl.webflow.com/5e80894f63c557e083ed96b4/5e82ffa4097a9061280e5e5a_004-linkedin-logo-button.svg" alt="" /></div></a>
-            <a href=""><div ><img className="img-tag1" src="https://uploads-ssl.webflow.com/5e80894f63c557e083ed96b4/5e82ffa4871a992216e6ceb9_001-facebook-logo-button.svg" alt="" /></div></a>
+            <a href="https://www.instagram.com/stanli_obi/"><div ><img className="img-tag1" src="https://uploads-ssl.webflow.com/5e80894f63c557e083ed96b4/5e82ffa4871a992216e6ceb9_001-facebook-logo-button.svg" alt="" /></div></a>
           </div>
       </div>
       <div className="right">
